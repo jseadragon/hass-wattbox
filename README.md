@@ -8,6 +8,12 @@
 [![Discord][discord-shield]][discord]
 [![Community Forum][forum-shield]][forum]
 
+
+### NOTE: FORKED
+
+Don't use the fork for anything! I am deliberately doing "yucky" things with git history to test locally. 
+Please use the upstream for any actual usage.
+
 # hass-wattbox
 
 [Home Assistant](home-assistant) Custom Component to integrate with [WattBox][wattbox].
